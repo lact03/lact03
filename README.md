@@ -1,4 +1,4 @@
-<img width="100%" src="https://wallpapers.com/images/hd/work-set-up-gamer-ypomyk703y3wclh6.jpg">
+<a href="https://wallpapers.com/images/hd/work-set-up-gamer-ypomyk703y3wclh6.jpg"><img width="100%" src="https://wallpapers.com/images/hd/work-set-up-gamer-ypomyk703y3wclh6.jpg"></a>
 
 <h1 align="center">Hi there 👋, I'm Luis Angelo C. Tabug</h1>
 <h3 align="center">A motivated full-stack Web developer</h3>
