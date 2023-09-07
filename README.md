@@ -1,6 +1,6 @@
-### Hi there 👋
+<img width="100%" src="https://wallpapers.com/images/hd/work-set-up-gamer-ypomyk703y3wclh6.jpg">
 
-<h1 align="center">Hi 👋, I'm Luis Angelo C. Tabug</h1>
+<h1 align="center">Hi there 👋, I'm Luis Angelo C. Tabug</h1>
 <h3 align="center">A motivated full-stack Web developer</h3>
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB**
